@@ -8,19 +8,61 @@ body {
     word-spacing: 0%;
     color: white;
     margin: auto;
-    margin-bottom: 0%;
     width: 50%;
     text-shadow: 1px 1px 1px #000;
     padding-top: 450px;
-    padding-bottom: 0px;
     padding-left: 650px;
-    font-weight: thin;
+    font-weight: lighter;
+    line-height: 2%;
+}
+
+.bruh {
+    line-height: 1%;
+    padding-left: 800px;
+    max-width: 970px;
 }
 
 hr.solid {
     border-top: 2px solid  white;
     margin-left: 0%;
-    padding-top: 0%;
     width: 26.5%;
     text-shadow: 1px 1px 1px #000;
+}
+
+div.yes {
+    padding-top: 10px;
+}
+
+div.socials {
+    padding-left: 835px;
+    width: 50%;
+    margin-left: 0%;
+}
+
+a:link {
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-decoration: none;
+}
+
+a:active {
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    text-decoration: none;
+}
+
+span.navigationSpace {
+    padding-left: 10px;
 }
