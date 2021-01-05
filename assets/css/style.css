@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('../images/NCULLnm.gif');
+    background-size: auto;
+}
+
+.nvrt {
+    word-spacing: 0%;
+    color: white;
+    margin: auto;
+    margin-bottom: 0%;
+    width: 50%;
+    text-shadow: 1px 1px 1px #000;
+    padding-top: 450px;
+    padding-bottom: 0px;
+    padding-left: 650px;
+    font-weight: thin;
+}
+
+hr.solid {
+    border-top: 2px solid  white;
+    margin-left: 0%;
+    padding-top: 0%;
+    width: 26.5%;
+    text-shadow: 1px 1px 1px #000;
+}
