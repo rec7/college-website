@@ -235,7 +235,9 @@ a {
 /* End Hero */
 
 /* Service Section */
-.services {}
+.services {
+	
+}
 
 .services .services {
 	flex-direction: column;
@@ -285,7 +287,7 @@ a {
 	font-size: 2rem;
 }
 
-.services .service-car {
+.services .service-architecture {
 	flex-basis: 80%;
 	height: 600px;
 	display: flex;
@@ -294,7 +296,7 @@ a {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(/assets/images/car.jpg);
+	background-image: url(/assets/images/IMG_0390.JPG);
 	background-size: cover;
 	background-position: center;
 	margin: 10px 5%;
@@ -302,7 +304,7 @@ a {
 	z-index: 1;
 }
 
-.services .service-car::after {
+.services .service-architecture::after {
 	content: '';
 	position: absolute;
 	left: 0%;
@@ -324,7 +326,7 @@ a {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(/assets/images/house.jpg);
+	background-image: url(/assets/images/IMG_0396.JPG);
 	background-size: cover;
 	background-position: center;
 	margin: 10px 5%;
